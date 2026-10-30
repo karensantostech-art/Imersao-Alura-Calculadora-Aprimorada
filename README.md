@@ -82,8 +82,8 @@ O projeto utiliza **exclusivamente a biblioteca padrão do Python** (`math`, `os
 
 **Via Git (recomendado):**
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/karensantostech-art/Imersao-Alura-Calculadora-Aprimorada.git
+cd Imersao-Alura-Calculadora-Aprimorada
 ```
 
 *Ou baixe o arquivo ZIP diretamente pelo botão verde **Code > Download ZIP** no GitHub e descompacte a pasta no seu computador.*
