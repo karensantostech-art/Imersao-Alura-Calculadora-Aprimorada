@@ -1,6 +1,7 @@
 # 🧮 CalculaPy - Calculadora Inteligente e Multidisciplinar em Python
 
-Uma aplicação interativa de terminal em **Python** desenvolvida para resolver desde cálculos do cotidiano até problemas de matemática aplicada, geometria plana e geometria espacial. O projeto combina conceitos de programação limpa, tratamento robusto de erros e uma interface CLI amigável e colorida.
+Uma aplicação interativa de terminal em **Python** desenvolvida para ajudar estudantes desde o ensino fundamental até os estudos para vestibular a confirmar cálculos e respostas de problemas matemáticos desde os mais simples até de matemática aplicada, geometria plana e geometria espacial. O projeto combina conceitos de programação limpa, tratamento robusto de erros e uma interface CLI amigável e colorida.
+
 
 ---
 
@@ -56,7 +57,7 @@ O sistema está estruturado em um menu principal com opções diretas e submenus
 ## 📂 Estrutura de Arquivos
 
 ```text
-Projeto_Imersão_IA_Karen/
+Imersao-Alura-Calculadora-Aprimorada/
 │
 ├── CalculaPy.py             # Código-fonte principal da aplicação
 ├── testes_calculadora.py    # Suíte com 22 testes automatizados (unittest)
@@ -155,7 +156,11 @@ Digite a qtd de Faces (F)    [0 para calcular]: 0
 
 ## 👩‍💻 Autoria e Aprendizado
 
-Desenvolvido com foco no aprofundamento prático em Python, abrangendo:
+Desenvolvido com foco na aplicação da IA no Desenvolvimento de Software,sendo o desafio 2 da Imersão DEV na Era da IA da Alura, abrangendo:
+
+* Boa elaboração de prompts.
+* Lógica de Programação.
+* Google Antigravity.
 * Estruturas de dados (`dict`, `list`, `tuple`).
 * Funções anônimas (`lambda`), empacotamento/desempacotamento de argumentos (`*args`).
 * Tratamento de exceções (`try / except / raise`).
